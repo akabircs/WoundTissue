@@ -3,9 +3,8 @@
 The dataset comprises 147 wound images. Granulation appears in 102, Necrosis in 102, Slough in 74, Maceration in 25, Tendon in 15, and Bone in 12 images.
 The images are labelled as: **Granulation** tissue is represented in **Red**, **Slough** in **Yellow**, **Maceration** in **White**, **Necrosis** in **Black**, **Tendon** in **Sky blue**, **Bone** in **Cream**, and **Background** in **Blue**.
 ![image](https://github.com/akabircs/WoundTissue/blob/main/sample.png)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/125b9f23-a39f-4283-9537-f01b6d099f1a" alt="image" />
-</p>
+![image](https://github.com/user-attachments/assets/125b9f23-a39f-4283-9537-f01b6d099f1a)
+
 ## Cite this paper as
 ```bibtex
 @misc{kabir2025deeplearningwoundtissue,
