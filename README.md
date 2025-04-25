@@ -12,7 +12,7 @@ The images are labelled as: **Granulation** tissue is represented in **Red**, **
       eprint={2502.10652},
       archivePrefix={arXiv},
       primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2502.10652}, 
+      url={https://arxiv.org/abs/2502.10652(https://arxiv.org/abs/2501.05991)}, 
 }
 ```
 ## License
